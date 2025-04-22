@@ -1,2 +1,3 @@
-# mysocial-genesis
-The MySocial Genesis blobs needed for validators to join the blockchain.
+# MySocial Genesis
+
+This repo contains MySocial's Genesis blobs needed for validators to join various networks on the blockchain.
